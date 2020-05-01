@@ -37,7 +37,7 @@ background-color: lightblue;
 <!DOCTYPE html>
 <html>
 <head>;
-<h1><title>NEKISLTD</title></h1>
+<h1> NEKISLTD </h1>
 </head>
 <body>
 </style>
